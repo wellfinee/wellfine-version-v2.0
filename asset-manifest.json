@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/wellfine-version-v2.0/static/css/main.23035c41.css",
-    "main.js": "/wellfine-version-v2.0/static/js/main.825e1927.js",
+    "main.js": "/wellfine-version-v2.0/static/js/main.4f8e4ccb.js",
     "static/js/787.0b86e9ec.chunk.js": "/wellfine-version-v2.0/static/js/787.0b86e9ec.chunk.js",
     "static/media/HunterRiver-Regular.otf": "/wellfine-version-v2.0/static/media/HunterRiver-Regular.b98f449f0efd9299a592.otf",
     "index.html": "/wellfine-version-v2.0/index.html",
     "static/media/a.svg": "/wellfine-version-v2.0/static/media/a.11b23cd6b8f76c05c89b58c5cc33e6fa.svg",
     "main.23035c41.css.map": "/wellfine-version-v2.0/static/css/main.23035c41.css.map",
-    "main.825e1927.js.map": "/wellfine-version-v2.0/static/js/main.825e1927.js.map",
+    "main.4f8e4ccb.js.map": "/wellfine-version-v2.0/static/js/main.4f8e4ccb.js.map",
     "787.0b86e9ec.chunk.js.map": "/wellfine-version-v2.0/static/js/787.0b86e9ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23035c41.css",
-    "static/js/main.825e1927.js"
+    "static/js/main.4f8e4ccb.js"
   ]
 }
