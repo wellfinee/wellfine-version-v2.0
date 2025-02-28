@@ -1,0 +1,25 @@
+{
+  "short_name": "WELLFINE - web developer, web designer",
+  "name": "Greetings.I am Mikael, fullstack web developer. I'm writing code for the frontend and backend that breaks all boundaries and stereotypes. \n      I'm not afraid to experiment with new technologies. I create websites that stand out for their design. I'm not looking for compromises and I don't adjust to trends.\n       I do what I like. I am what I do, and that's my style.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
